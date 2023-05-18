@@ -1,0 +1,18 @@
+.feedback {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.feedbackItem {
+  margin: 10px;
+  padding: 0;
+}
+button {
+  border-radius: 4px;
+  font-size: 40px;
+}
+.feedbackTitle {
+  margin: 30px;
+  font-size: 50px;
+}
