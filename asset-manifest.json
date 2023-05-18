@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/angelkapv81/goit-react-hw-04-feedback/static/css/main.9ddb95dc.css",
+    "main.js": "/angelkapv81/goit-react-hw-04-feedback/static/js/main.33ebda3f.js",
+    "index.html": "/angelkapv81/goit-react-hw-04-feedback/index.html",
+    "main.9ddb95dc.css.map": "/angelkapv81/goit-react-hw-04-feedback/static/css/main.9ddb95dc.css.map",
+    "main.33ebda3f.js.map": "/angelkapv81/goit-react-hw-04-feedback/static/js/main.33ebda3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ddb95dc.css",
+    "static/js/main.33ebda3f.js"
+  ]
+}
